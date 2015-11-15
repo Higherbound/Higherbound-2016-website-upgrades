@@ -1,0 +1,3 @@
+@Imports co.higherbound.SampleProject.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
