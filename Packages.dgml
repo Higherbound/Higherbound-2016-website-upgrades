@@ -11,7 +11,7 @@
     <Node Id="Microsoft.AspNet.WebApi.OData 5.1.2" Label="Microsoft.AspNet.WebApi.OData 5.1.2" Category="Package" />
     <Node Id="Microsoft.AspNet.WebApi.WebHost 5.1.2" Label="Microsoft.AspNet.WebApi.WebHost 5.1.2" Category="Package" />
     <Node Id="Microsoft.Data.Edm 5.6.1" Label="Microsoft.Data.Edm 5.6.1" Category="Package" />
-    <Node Id="Microsoft.Data.OData 5.6.1" Label="Microsoft.Data.OData 5.6.1" Category="Package" />
+    <Node Id="Microsoft.Data.OData 5.6.2" Label="Microsoft.Data.OData 5.6.2" Category="Package" />
     <Node Id="Newtonsoft.Json 6.0.3" Label="Newtonsoft.Json 6.0.3" Category="Package" />
     <Node Id="System.Spatial 5.6.1" Label="System.Spatial 5.6.1" Category="Package" />
     <Node Id="RockWeb(1)" Label="RockWeb(1)" Category="Project" />
